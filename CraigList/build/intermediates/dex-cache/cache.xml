@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/e869c69f8cf036a9763108dfd92e28ee564c31f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_33635502fa05440dffc63985bddc5df96f53f791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/0e88cc3c8944eda14037cc2450f618871792d540/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_3adf30c4871711923ab634c308be64a5f1c7971c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/778e405fa7c11c9409ef2aa4f5606a772b856f46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_e2a708cd48d9d49182c2cd0e7858a7bbe1c73112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/d75b84ed9cce56736c6686fbef0d0bdc6731e63c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_d2d3528562644e44d190a2b0c588cef5bf602e70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/297e423b1a304cd145eb844ab2d92721ccede098/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_7fcd6dbd947cade3ba3686b602425127a9d6e549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/4e3353177383da60be7609738243b6722de1a085/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_d2127dd9a6e1a2e2c44b26244ed320b427feff1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/e589311c43e26c8fad37fe3ba71061ef09d37d19/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_dd9b4c04aa01368a5f5b10c76b44ba311baeae3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/c8f09ce58cb9bd14e7a7aa6293b476e92af0d8ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_376aeab754021f5559e8b194cd16967250ccc13c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/9594e725a231e80238d07889525a1eb22b93895c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_a0bd05b692c8ebf5eaaf30edbc14425256dd846e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/746be1f59900fdb5b607d04b904f4c50035e38ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_80d06ac6d74359c0905670bf7981723e83bfdc4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_227071aa2308a62519500c0b498a5520cdc168e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_2a3e3420cc26ca5a0dd9a74bc2bca0ac1c1585c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/ebbe4a0aaa1afb7cacf63819682781ef8c630320/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_06b555baf24c174aa1176f0e45cf87a6795fa472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/4a2c60c0b57ed6e0df574119d21b4b2c7cd72635/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_630aefc1e43883007772227b4e1d05986033a205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/AshishMAC/.android/build-cache/72168f4f9888c1d8510661bd404e8e618735b0ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/AshishMAC/AndroidStudioProjects/BuyerSeller/app/build/intermediates/pre-dexed/debug/classes_8bdfc809336a450ac9dd0a876aa09fd81c62e68a.jar" />
+    </item>
+
+</items>

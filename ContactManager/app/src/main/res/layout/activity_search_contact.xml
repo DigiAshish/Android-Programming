@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ashishmac.customphonebook.SearchContact">
+
+    <EditText
+        android:id="@+id/txtSearch"
+        android:layout_width="359dp"
+        android:layout_height="39dp"
+        android:ems="10"
+        android:hint="First Name"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <Button
+        android:id="@+id/Search"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:onClick="btnSearch"
+        android:text="Search"
+        tools:layout_editor_absoluteX="138dp"
+        tools:layout_editor_absoluteY="73dp" />
+
+        <ListView
+            android:id="@+id/listViewSearch"
+            android:layout_width="398dp"
+            android:layout_height="370dp"
+            android:visibility="invisible"
+            tools:layout_editor_absoluteX="-5dp"
+            tools:layout_editor_absoluteY="134dp" />
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="?android:attr/windowBackground"
+        app:menu="@menu/navigation" />
+
+</LinearLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linear"
+    tools:context="com.example.ashishmac.buyerseller.SellerPage">
+
+    <EditText
+        android:id="@+id/textViewCreate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="How many EditText?"
+        android:layout_weight="1"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/Create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="btnCreate"
+        android:text="Create"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_editor_absoluteY="78dp"
+        android:layout_toRightOf="@id/textViewCreate"/>
+
+    <Button
+        android:id="@+id/Modify"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Create"
+        android:layout_weight="1"
+        android:onClick="btnModify"
+        android:text="View my Products" />
+</RelativeLayout>
